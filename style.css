@@ -1,0 +1,156 @@
+ h1{
+      color: rgb(248, 248, 252);
+      background-color: #86c850;
+      height: 100px;
+      width: 100%;
+      text-align: center;
+      padding-top: 60px;
+      margin: 0;
+      
+ }
+
+h1:hover{
+    color: rgb(225, 241, 10);
+    cursor: pointer;
+}
+
+table{
+    border-style: solid;
+    border: width 5px;;
+    border-color: rgb(1, 10, 1);
+}
+table:hover{
+    color: rgb(244, 244, 241);
+    cursor: pointer;
+}
+h2:hover{
+    cursor: pointer;
+    color: rgb(16, 16, 1);
+}
+
+ul{
+text-align: center;
+color: rgb(0, 5, 10);
+cursor: pointer;
+padding-top: 10px;
+}
+ul:hover{
+    color: rgb(225, 241, 10);
+    cursor: pointer;
+}
+.offer{
+    height: 200px;
+    width: 300px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    margin-left: 600px;
+    padding: 25px;
+    background-color: rgb(193, 241, 63);
+    font-weight:bold;
+    margin-top: 50px;
+}
+.box{
+    background-color: rgb(250, 213, 24);
+    display:inline-block;
+    text-align: center;
+    margin-left: 600px;
+}
+td{
+    padding:  15px;
+}
+
+.six{
+    background-color: #5bb710;
+    margin-top: 50px;
+    text-align:center;
+    height: 180px;
+  }
+.container img{
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    
+}
+.container{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    padding: 20px;
+}
+
+.card{
+    width: 220px;
+    border: 5px solid rgb(243, 180, 5);
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(243, 198, 74);
+    margin-top: 50px;
+}
+.card:hover{
+    color: aliceblue;
+    cursor: pointer;
+}
+
+.card img{
+    width: 180px;
+    height: 260px;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
+}
+
+.card h3{
+    margin-top: 10px;
+}
+
+.card p{
+    margin-top: 10px;
+}
+.menu{
+    text-align: left;
+}
+
+.offer-banner{
+    width:90%;
+    margin:40px auto;
+    text-align:center;
+    padding:25px;
+    font-size:35px;
+    border-radius:20px;
+    background:linear-gradient(90deg,#3d9c14ea);
+    color:white;
+    font-weight:bold;
+}
+.offer-banner:hover{
+    color: rgb(245, 239, 57);
+    cursor: pointer;
+}
+h2{
+    color: rgb(10, 18, 2);
+    text-align: center;
+}
+#about{
+    padding:20px;
+    line-height:1.8;
+    font-size:18px;
+    justify-content: space-around;
+}
+#about p{
+    text-align: justify;
+}
+.size{
+    margin-top: 50px;
+}
+#about:hover{
+    cursor: pointer;
+    
+}
+body{
+    background: linear-gradient(to bottom, #cefb82,#d1e87d)
+}
+
+
+    
+
+
